@@ -1,4 +1,5 @@
 #writefile delivery_app.py
+pip install catboost
 import streamlit as st
 import catboost
 import pickle
