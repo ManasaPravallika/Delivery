@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-catboost==1.1.1
+catboost==1.2.0
 scikit-learn
 pickle
