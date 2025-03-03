@@ -4,3 +4,4 @@ pandas
 catboost
 scikit-learn
 pickle
+pip install catboost
