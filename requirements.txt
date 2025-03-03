@@ -1,6 +1,6 @@
+catboost
 streamlit
 numpy
 pandas
-catboost
 scikit-learn
 
