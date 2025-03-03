@@ -3,4 +3,4 @@ numpy
 pandas
 catboost==1.2.0
 scikit-learn
-pickle
+
